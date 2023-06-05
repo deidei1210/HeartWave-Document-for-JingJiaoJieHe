@@ -1,2 +1,10 @@
-# HeartWave-Document-for-JingJiaoJieHe
-这是关于HeartWave的一些文档
+#项目文档说明
+
+项目名称：HeartWave
+项目成员：储岱泽 段婷婷 周文玥
+##提交文件
+- **HeartWave项目文档.pdf：** 是对于此项目的全部说明。包含项目简介、项目背景、竞品分析、技术路线、商业模式等内容。
+- **HeartWave.pptx：** 是此项目的PPT。
+- **HeartWave小程序端代码** ：里面包含了HeartWave目前已经完成的微信小程序前端的代码。桌面端正在开发中。
+- **HeartWave小程序演示.mp4** ：通过录屏演示了此次项目的小程序端demo。
+- **桌面端UI** ：里面包含了HeartWave桌面端UI的设计图片。
